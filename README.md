@@ -1,4 +1,5 @@
-                                                      MOVIE BOOKING SYSTEM
+# MOVIE BOOKING SYSTEM
+
 1.This application allows users to book movies, cancel booking and view bookings. They can only cancel or view upcoming bookings.<br/>
 2.Staff can add movies with start and end date and view the current movies.<br/>
 3.Users will be provided with movies open for booking. When they choose a movie, they will be shown the dates on which it is available. When they choose a date, they will be 
